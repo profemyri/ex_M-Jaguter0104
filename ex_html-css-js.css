@@ -1,13 +1,21 @@
 body {
-   ...........
+
 }
 
 h1 {
-   ...........
+
 }
 
 form {
-   ...........
+
 }
 
-............
+direccion {
+   min-width: 18ch;
+}
+
+telefono {
+   min-width: 9ch;
+}
+
+i
